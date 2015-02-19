@@ -17,14 +17,14 @@
 
 
 ## System Setups
-# Windows 8 
+### Windows 8 
 * File and Printer Sharing enabled
 * XAMPP server started and online
 
-# Ubuntu
+### Ubuntu
 * 
 
-# Windows 7 
+### Windows 7 
 * File and Printer Sharing enabled
 * XAMPP server started and online 
 
